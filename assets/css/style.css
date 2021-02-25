@@ -42,6 +42,10 @@ body.modal-open {
   padding-right: 0px !important;
 }
 
+.bgcolor{
+  background-color: #4c4c4c;
+}
+
 h1 {
   font-size: 60px;
   line-height: 1.0833333333;
